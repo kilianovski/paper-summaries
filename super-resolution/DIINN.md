@@ -25,7 +25,7 @@ Main idea, innovations, practical applications
 1. Innovation: new architecture for SISR task that handles arbitrary upscale target size with implicit decoder.
 2. Main idea: have a separate processing branches for features and for spatial coordinates (with communication channels between them) 
 3. Beyond SISR with arbitrary scale factors, I think this approach can be useful for other applications of neural fields (e.g. NERF) 
-![](Pasted%20image%2020230205200307.png)
+![](/attachments/Pasted%20image%2020230205200307.png)
 
 ## How
 
