@@ -1,9 +1,13 @@
 # Paper
 
 Title: Single Image Super-Resolution via a Dual Interactive Implicit Neural Network
+
 Authors: Nguyen and Beksi, The University of Texas at Arlington, Robotic Vision Lab
+
 Link: https://arxiv.org/abs/2210.12593
+
 Code: https://github.com/robotic-vision-lab/Dual-Interactive-Implicit-Neural-Network
+
 Keywords: super resolution, implicit neural representations
 
 # Summary
@@ -13,7 +17,9 @@ Keywords: super resolution, implicit neural representations
 Work in the area of the single image super resolution (SISR). More concretely, in the area of architectures that handles arbitrary scale factors. For this, they use neural fields (implicit neural networks).
 
 LR - low resolution
+
 HR - high resolution
+
 LIIF - previous method this work is partially based on ([Learning Continuous Image Representation with Local Implicit Image Function](https://www.semanticscholar.org/paper/Learning-Continuous-Image-Representation-with-Local-Chen-Liu/767a6054796e2e6c1de453afab0e05e55aadf825))
 
 PSRN - Peak Signal to Noise Ratio
