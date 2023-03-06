@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4850f88ec86c4f96",
+            "id": "40e8586ab6981236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "super-resolution/DIINN.md",
+                "file": "super-resolution/SRGAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "super-resolution/DIINN.md",
+                "file": "super-resolution/SRGAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "super-resolution/DIINN.md",
+                "file": "super-resolution/SRGAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "super-resolution/DIINN.md"
+                "file": "super-resolution/SRGAN.md"
               }
             }
           }
@@ -146,11 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4850f88ec86c4f96",
+  "active": "40e8586ab6981236",
   "lastOpenFiles": [
+    "super-resolution/DIINN.md",
+    "super-resolution/SRGAN.md",
+    "attachments/Pasted image 20230306174008.png",
+    "super-resolution/Meta-SR.md",
+    "super-resolution/DCDPA.md",
+    "fundamentals/contextual_loss.md.md",
+    "README.md",
     "attachments/Pasted image 20230205200307.png",
     "attachments/Pasted image 20230205195330.png",
-    "super-resolution/DIINN.md",
     "Pasted image 20230205195149.png",
     "2023-02-05.md",
     "Pasted image 20230205194615.png.md"
